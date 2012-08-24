@@ -3,8 +3,8 @@
 *   
 *   @brief attitude control
 *
-*   @author Aydan Halilov
-*						Savas Aydin
+*   @author Savas Aydin
+*						
 *
 *		@reference necessary calculations and idea of how drone should move
 *
