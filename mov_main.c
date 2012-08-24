@@ -4,7 +4,7 @@
 *   @brief main file of mov module
 *
 *   @author 
-*						Savas Aydin
+*						Savas Aydin Aydan Halilov
 *
 *		@reference TODO
 *						
