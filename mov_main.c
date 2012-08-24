@@ -3,7 +3,7 @@
 *   
 *   @brief main file of mov module
 *
-*   @author Aydan Halilov
+*   @author 
 *						Savas Aydin
 *
 *		@reference TODO
