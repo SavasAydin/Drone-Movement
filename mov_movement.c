@@ -3,7 +3,7 @@
 *   
 *   @brief send accurate data to motor 
 *
-*   @author Aydan Halilov
+*   @author 
 *						Savas Aydin
 *
 *		@reference TODO
