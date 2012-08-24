@@ -4,7 +4,7 @@
 *   @brief send accurate data to motor 
 *
 *   @author 
-*						Savas Aydin
+*						Savas Aydin Aydan Halilov
 *
 *		@reference TODO
 *						
